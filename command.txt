@@ -1,0 +1,95 @@
+ 1  service jenkins start
+    2  history
+    3  cd tmp
+    4  cd car/tmp
+    5  cd tmp
+    6  cd /tmp
+    7  vi one
+    8  chmod 777 one
+    9  ls one
+   10  mv one one.sh
+   11  ls -ll
+   12  clear
+   13  git init .
+   14  mkdir git
+   15  cd git
+   16  cd ..
+   17  mv one.sh /tmp/git
+   18  cd git
+   19  ls -ll
+   20  git init
+   21  cd ..
+   22  yum git install -y
+   23  yum install git -y
+   24  cd /tmp
+   25  cd git
+   26  ls -ltr
+   27  git status
+   28  cd /tmp
+   29  ls -ll
+   30  cd git
+   31  ls -ll
+   32  rpm -qa pipe grep-igit
+   33  git init .
+   34  git status
+   35  git commit -m "commit"
+   36  git add .
+   37  git status
+   38  git commit -m "commit"
+   39  git remote add origin https://github.com/hemantblythe/jenkinsprac.git
+   40  git push master origin
+   41  push origin master
+   42  git push origin master
+   43  git status
+   44  git checkout master
+   45  pwd
+   46  ls -ll
+   47  two.sh
+   48  vi two.sh
+   49  git init .
+   50  git add two.sh
+   51  git commit -m "com"
+   52  git push origin master
+   53  history
+   54  clear
+   55  service jenkins start
+   56  service start jenkins
+   57  service jenkins start
+   58  cd /tmp
+   59  cd git
+   60  vi three.sh
+   61  git init .
+   62  git add three.sh
+   63  git commit -m "com"
+   64  git push origin master
+   65  yum install java-1.8.0 -y
+   66  rpm -qa|grep-i java
+   67  rpm -qa|grep -i java
+   68  yum install java-1.8.0 -y
+   69  yum update -y
+   70  java-version
+   71  java -version
+   72  service jenkins start
+   73  mkdir /opt/maven
+   74  cd /opt/maven
+   75  wget http://apache.spinellicreations.com/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.zip
+   76  ls -ltr
+   77  unzip apache-maven-3.6.0-bin.zip
+   78  ls -ltr
+   79  cd /root
+   80  ls -ltr
+   81  ls -la
+   82  finger root
+   83  cat /etc/passwd |grep -i root
+   84  ls -la
+   85  cat .bash_profile
+   86  vi .bash_profile
+   87  mvn -version
+   88  maven -version
+   89  exit
+   90  mvn -version
+   91  pwd
+   92  cd /opt/maven
+   93  ls -ltr
+   94  pwd
+   95  history
